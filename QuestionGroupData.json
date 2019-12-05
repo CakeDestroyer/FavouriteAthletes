@@ -2,12 +2,12 @@
     {
         "title": {
             "ru": "Футбол",
-            "en": "Soccer",
+            "en": "Soccer"
         },
         "score": {
             "questionsCount": 8,
             "correctCount": 0,
-            "incorrectCount": 0,
+            "incorrectCount": 0
         },
         "questions": [
             {
@@ -15,77 +15,77 @@
                 "answerImageName": "Eden_Hazard_1",
                 "hint": {
                     "ru": "Эден Азар",
-                    "en": "Eden Hazard",
-                },
+                    "en": "Eden Hazard"
+                }
             },
             {
                 "promptImageName": "Sergio_Ramos_2",
                 "answerImageName": "Sergio_Ramos_1",
                 "hint": {
                     "ru": "Серхио Рамос",
-                    "en": "Sergio Ramos",
-                },
+                    "en": "Sergio Ramos"
+                }
             },
             {
                 "promptImageName": "Robert_Lewandowski_2",
                 "answerImageName": "Robert_Lewandowski_1",
                 "hint": {
                     "ru": "Роберт Левандовский",
-                    "en": "Robert Lewandowski",
-                },
+                    "en": "Robert Lewandowski"
+                }
             },
             {
                 "promptImageName": "Manuel_Neuer_2",
                 "answerImageName": "Manuel_Neuer_1",
                 "hint": {
                     "ru": "Мануэль Нойер",
-                    "en": "Manuel Neuer",
-                },
+                    "en": "Manuel Neuer"
+                }
             },
             {
                 "promptImageName": "Luis_Suarez_2",
                 "answerImageName": "Luis_Suarez_1",
                 "hint": {
                     "ru": "Луис Суарес",
-                    "en": "Luis Suarez",
-                },
+                    "en": "Luis Suarez"
+                }
             },
             {
                 "promptImageName": "Neymar_2",
                 "answerImageName": "Neymar_1",
                 "hint": {
                     "ru": "Неймар",
-                    "en": "Neymar",
-                },
+                    "en": "Neymar"
+                }
             },
             {
                 "promptImageName": "Lionel_Messi_2",
                 "answerImageName": "Lionel_Messi_1",
                 "hint": {
                     "ru": "Лионель Месси",
-                    "en": "Lionel Messi",
-                },
+                    "en": "Lionel Messi"
+                }
             },
             {
                 "promptImageName": "Cristiano_Ronaldo_2",
                 "answerImageName": "Cristiano_Ronaldo_1",
                 "hint": {
                     "ru": "Криштиану Роналду",
-                    "en": "Cristiano Ronaldo",
-                },
-            },
+                    "en": "Cristiano Ronaldo"
+                }
+            }
         ],
-        "background": "soccer_bg",
+        "background": "soccer_bg"
     },
     {
         "title": {
             "ru": "Баскетбол",
-            "en": "Basketball",
+            "en": "Basketball"
         },
         "score": {
             "questionsCount": 8,
             "correctCount": 0,
-            "incorrectCount": 0,
+            "incorrectCount": 0
         },
         "questions": [
             {
@@ -93,77 +93,77 @@
                 "answerImageName": "Tony_Parker_1",
                 "hint": {
                     "ru": "Тони Паркер",
-                    "en": "Tony Parker",
-                },
+                    "en": "Tony Parker"
+                }
             },
             {
                 "promptImageName": "Pau_Gasol_2",
                 "answerImageName": "Pau_Gasol_1",
                 "hint": {
                     "ru": "По Газоль",
-                    "en": "Pau Gasol",
-                },
+                    "en": "Pau Gasol"
+                }
             },
             {
                 "promptImageName": "Steve_Nash_2",
                 "answerImageName": "Steve_Nash_1",
                 "hint": {
                     "ru": "Стив Нэш",
-                    "en": "Steve Nash",
-                },
+                    "en": "Steve Nash"
+                }
             },
             {
                 "promptImageName": "Dirk_Nowitzki_2",
                 "answerImageName": "Dirk_Nowitzki_1",
                 "hint": {
                     "ru": "Дирк Новицки",
-                    "en": "Dirk Nowitzki",
-                },
+                    "en": "Dirk Nowitzki"
+                }
             },
             {
                 "promptImageName": "Marc_Gasol_2",
                 "answerImageName": "Marc_Gasol_1",
                 "hint": {
                     "ru": "Марк Газоль",
-                    "en": "Marc Gasol",
-                },
+                    "en": "Marc Gasol"
+                }
             },
             {
                 "promptImageName": "Zydrunas_Ilgauskas_2",
                 "answerImageName": "Zydrunas_Ilgauskas_1",
                 "hint": {
                     "ru": "Жидрунас Илгаускас",
-                    "en": "Zydrunas Ilgauskas",
-                },
+                    "en": "Zydrunas Ilgauskas"
+                }
             },
             {
                 "promptImageName": "Hedo_Turkoglu_2",
                 "answerImageName": "Hedo_Turkoglu_1",
                 "hint": {
                     "ru": "Хедо Тюркоглу",
-                    "en": "Hedo Turkoglu",
-                },
+                    "en": "Hedo Turkoglu"
+                }
             },
             {
                 "promptImageName": "Andrei_Kirilenko_2",
                 "answerImageName": "Andrei_Kirilenko_1",
                 "hint": {
                     "ru": "Андрей Кириленко",
-                    "en": "Andrei Kirilenko",
-                },
-            },
+                    "en": "Andrei Kirilenko"
+                }
+            }
         ],
-        "background": "basketball_bg",
+        "background": "basketball_bg"
     },
     {
         "title": {
             "ru": "Хоккей",
-            "en": "Hockey",
+            "en": "Hockey"
         },
         "score": {
             "questionsCount": 8,
             "correctCount": 0,
-            "incorrectCount": 0,
+            "incorrectCount": 0
         },
         "questions": [
             {
@@ -171,77 +171,77 @@
                 "answerImageName": "Drew_Doughty_1",
                 "hint": {
                     "ru": "Дрю Даути",
-                    "en": "Drew Doughty",
-                },
+                    "en": "Drew Doughty"
+                }
             },
             {
                 "promptImageName": "Vladislav_Tretiak_2",
                 "answerImageName": "Vladislav_Tretiak_1",
                 "hint": {
                     "ru": "Владислав Третьяк",
-                    "en": "Vladislav Tretiak",
-                },
+                    "en": "Vladislav Tretiak"
+                }
             },
             {
                 "promptImageName": "Jonathan_Toews_2",
                 "answerImageName": "Jonathan_Toews_1",
                 "hint": {
                     "ru": "Джонатан Тэйвз",
-                    "en": "Jonathan Toews",
-                },
+                    "en": "Jonathan Toews"
+                }
             },
             {
                 "promptImageName": "Wayne_Gretzky_2",
                 "answerImageName": "Wayne_Gretzky_1",
                 "hint": {
                     "ru": "Уэйн Гретцки",
-                    "en": "Wayne Gretzky",
-                },
+                    "en": "Wayne Gretzky"
+                }
             },
             {
                 "promptImageName": "Borje_Salming_2",
                 "answerImageName": "Borje_Salming_1",
                 "hint": {
                     "ru": "Бёрье Сальминг",
-                    "en": "Borje Salming",
-                },
+                    "en": "Borje Salming"
+                }
             },
             {
                 "promptImageName": "Sergey_Makarov_2",
                 "answerImageName": "Sergey_Makarov_1",
                 "hint": {
                     "ru": "Сергей Макаров",
-                    "en": "Sergey Makarov",
-                },
+                    "en": "Sergey Makarov"
+                }
             },
             {
                 "promptImageName": "Valery_Kharlamov_2",
                 "answerImageName": "Valery_Kharlamov_1",
                 "hint": {
                     "ru": "Валерий Харламов",
-                    "en": "Valery Kharlamov",
-                },
+                    "en": "Valery Kharlamov"
+                }
             },
             {
                 "promptImageName": "Vyacheslav_Fetisov_2",
                 "answerImageName": "Vyacheslav_Fetisov_1",
                 "hint": {
                     "ru": "Вячеслав Фетисов",
-                    "en": "Vyacheslav Fetisov",
-                },
-            },
+                    "en": "Vyacheslav Fetisov"
+                }
+            }
         ],
-        "background": "hockey_bg",
+        "background": "hockey_bg"
     },
     {
         "title": {
             "ru": "Теннис",
-            "en": "Tennis",
+            "en": "Tennis"
         },
         "score": {
             "questionsCount": 8,
             "correctCount": 0,
-            "incorrectCount": 0,
+            "incorrectCount": 0
         },
         "questions": [
             {
@@ -249,77 +249,77 @@
                 "answerImageName": "Tomas_Berdych_1",
                 "hint": {
                     "ru": "Томаш Бердых",
-                    "en": "Tomas Berdych",
-                },
+                    "en": "Tomas Berdych"
+                }
             },
             {
                 "promptImageName": "Jo_Wilfried_Tsonga_2",
                 "answerImageName": "Jo_Wilfried_Tsonga_1",
                 "hint": {
                     "ru": "Жо-Вильфрид Тсонга",
-                    "en": "Jo-Wilfried Tsonga",
-                },
+                    "en": "Jo-Wilfried Tsonga"
+                }
             },
             {
                 "promptImageName": "Nicolas_Almagro_2",
                 "answerImageName": "Nicolas_Almagro_1",
                 "hint": {
                     "ru": "Николас Альмагро",
-                    "en": "Nicolas Almagro",
-                },
+                    "en": "Nicolas Almagro"
+                }
             },
             {
                 "promptImageName": "Rafael_Nadal_2",
                 "answerImageName": "Rafael_Nadal_1",
                 "hint": {
                     "ru": "Рафаэль Надаль",
-                    "en": "Rafael Nadal",
-                },
+                    "en": "Rafael Nadal"
+                }
             },
             {
                 "promptImageName": "Andy_Murray_2",
                 "answerImageName": "Andy_Murray_1",
                 "hint": {
                     "ru": "Энди Маррей",
-                    "en": "Andy Murray",
-                },
+                    "en": "Andy Murray"
+                }
             },
             {
                 "promptImageName": "Roger_Federer_2",
                 "answerImageName": "Roger_Federer_1",
                 "hint": {
                     "ru": "Роджер Федерер",
-                    "en": "Roger Federer",
-                },
+                    "en": "Roger Federer"
+                }
             },
             {
                 "promptImageName": "David_Ferrer_2",
                 "answerImageName": "David_Ferrer_1",
                 "hint": {
                     "ru": "Давид Феррер",
-                    "en": "David Ferrer",
-                },
+                    "en": "David Ferrer"
+                }
             },
             {
                 "promptImageName": "Novak_Djokovic_2",
                 "answerImageName": "Novak_Djokovic_1",
                 "hint": {
                     "ru": "Новак Джокович",
-                    "en": "Novak Djokovic",
-                },
-            },
+                    "en": "Novak Djokovic"
+                }
+            }
         ],
-        "background": "tennis_bg",
+        "background": "tennis_bg"
     },
     {
         "title": {
             "ru": "Бейсбол",
-            "en": "Baseball",
+            "en": "Baseball"
         },
         "score": {
             "questionsCount": 8,
             "correctCount": 0,
-            "incorrectCount": 0,
+            "incorrectCount": 0
         },
         "questions": [
             {
@@ -327,66 +327,160 @@
                 "answerImageName": "Todd_Helton_1",
                 "hint": {
                     "ru": "Тодд Хелтон",
-                    "en": "Todd Helton",
-                },
+                    "en": "Todd Helton"
+                }
             },
             {
                 "promptImageName": "Miguel_Cabrera_2",
                 "answerImageName": "Miguel_Cabrera_1",
                 "hint": {
                     "ru": "Мигель Кабрера",
-                    "en": "Miguel Cabrera",
-                },
+                    "en": "Miguel Cabrera"
+                }
             },
             {
                 "promptImageName": "Manny_Ramirez_2",
                 "answerImageName": "Manny_Ramirez_1",
                 "hint": {
                     "ru": "Мэнни Рамирес",
-                    "en": "Manny Ramírez",
-                },
+                    "en": "Manny Ramírez"
+                }
             },
             {
                 "promptImageName": "Sabathia_2",
                 "answerImageName": "Sabathia_1",
                 "hint": {
                     "ru": "Си Си Сабатия",
-                    "en": "C. C. Sabathia",
-                },
+                    "en": "C. C. Sabathia"
+                }
             },
             {
                 "promptImageName": "Mark_Teixeira_2",
                 "answerImageName": "Mark_Teixeira_1",
                 "hint": {
                     "ru": "Марк Тейшейра",
-                    "en": "Mark Teixeira",
-                },
+                    "en": "Mark Teixeira"
+                }
             },
             {
                 "promptImageName": "Joe_Mauer_2",
                 "answerImageName": "Joe_Mauer_1",
                 "hint": {
                     "ru": "Джо Мауэр",
-                    "en": "Joe Mauer",
-                },
+                    "en": "Joe Mauer"
+                }
             },
             {
                 "promptImageName": "Derek_Jeter_2",
                 "answerImageName": "Derek_Jeter_1",
                 "hint": {
                     "ru": "Дерек Джитер",
-                    "en": "Derek Jeter",
-                },
+                    "en": "Derek Jeter"
+                }
             },
             {
                 "promptImageName": "Alexander_Rodriguez_2",
                 "answerImageName": "Alexander_Rodriguez_1",
                 "hint": {
                     "ru": "Алекс Родригес",
-                    "en": "Alexander Rodriguez",
-                },
-            },
+                    "en": "Alexander Rodriguez"
+                }
+            }
         ],
-        "background": "baseball_bg",
+        "background": "baseball_bg"
     },
+    {
+        "title": {
+            "ru": "Киберспорт",
+            "en": "Cybersports"
+        },
+        "score": {
+            "questionsCount": 10,
+            "correctCount": 0,
+            "incorrectCount": 0
+        },
+        "questions": [
+            {
+                "promptImageName": "assassin_creed_2",
+                "answerImageName": "assassin_creed_1",
+                "hint": {
+                    "ru": "Кредо ассасина",
+                    "en": "Assassin's Creed"
+                }
+            },
+            {
+                "promptImageName": "Fallout_2",
+                "answerImageName": "Fallout_1",
+                "hint": {
+                    "ru": "Негативные последствия",
+                    "en": "Fallout"
+                }
+            },
+            {
+                "promptImageName": "Dota_2",
+                "answerImageName": "Dota_1",
+                "hint": {
+                    "ru": "Dota 2",
+                    "en": "Dota 2"
+                }
+            },
+            {
+                "promptImageName": "Nfs_2",
+                "answerImageName": "Nfs_1",
+                "hint": {
+                    "ru": "Жажда скорости",
+                    "en": "Игры Need for Speed"
+                }
+            },
+            {
+                "promptImageName": "GTA_2",
+                "answerImageName": "GTA_1",
+                "hint": {
+                    "ru": "Grand Theft Auto",
+                    "en": "Grand Theft Auto"
+                }
+            },
+            {
+                "promptImageName": "Monkey_Business_2",
+                "answerImageName": "Monkey_Business_1",
+                "hint": {
+                    "ru": "Бессмысленная работа",
+                    "en": "Monkey Business"
+                }
+            },
+            {
+                "promptImageName": "Call_of_Duty_2",
+                "answerImageName": "Call_of_Duty_1",
+                "hint": {
+                    "ru": "Зов долга",
+                    "en": "Call of Duty"
+                }
+            },
+            {
+                "promptImageName": "Warcraft_2",
+                "answerImageName": "Warcraft_1",
+                "hint": {
+                    "ru": "Военное ремесло",
+                    "en": "World of Warcraft"
+                }
+            },
+            {
+                "promptImageName": "Indiana_Quest_2",
+                "answerImageName": "Indiana_Quest_1",
+                "hint": {
+                    "ru": "Индиана Джонс",
+                    "en": "Indiana's Quest"
+                }
+            },
+            {
+                "promptImageName": "CS_2",
+                "answerImageName": "CS_1",
+                "hint": {
+                    "ru": "Контрудар",
+                    "en": "Counter-Strike"
+                }
+            }
+        ],
+        "background": "cybersports_bg"
+    }
 ]
